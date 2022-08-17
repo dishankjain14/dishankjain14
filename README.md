@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dishankjain14
-- 👀 I’m interested in Symbiosis Institute of Technology
+- 👀 I’m studying in Symbiosis Institute of Technology
 - 🌱 I’m currently learning Computer Science Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
